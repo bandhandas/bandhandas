@@ -16,8 +16,11 @@
 
 
 name        : Bandhan Kumar Das
+
 role        : CSE (IoT) Student | AI & Embedded Systems Enthusiast
+
 mantra      : Build smart. Think deep. Ship fast.
+
 
 focus:
   - IoT systems and embedded hardware integration
