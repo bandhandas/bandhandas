@@ -3,9 +3,7 @@
 <h3 align="center">🚀 CSE (IoT) Student | AI & Embedded Systems Enthusiast</h3>
 
 <!-- BANNER / GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+
 
 
 <div align="center">
