@@ -9,13 +9,29 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech CSE (IoT) Student  
-- 🤖 Working on AI + Raspberry Pi Projects  
-- 🌱 Currently learning: **DSA + GATE Subjects**  
-- 💡 Interested in **AI, IoT, Computer Vision**  
-- ⚡ Fun fact: I build projects more than I watch tutorials  
+## 🧠 About Me
 
+<div>
+
+```bash
+name                : Bandhan Kumar Das
+role                : CSE (IoT) Student + AI/ML Developer
+mantra              : Build first. Learn always.
+
+focus:
+  - IoT + AI based real-world projects
+  - Strong DSA + GATE preparation
+  - Efficient and optimized systems
+
+currently_learning:
+  - Data Structures & Algorithms
+  - Core CS (OS, DBMS, CN)
+  - TensorFlow Lite, OpenCV
+
+open_to:
+  - Internships
+  - Freelance projects
+  - Open Source collaborations
 ---
 
 ## 🚀 Tech Stack
