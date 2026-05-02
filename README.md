@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Bandhan Kumar Das<br><br>🎓 Computer Science Student<br>🤖 Interested in AI/ML, Robotics, and Intelligent Systems<br><br>🔭 I’m currently working on AI-based and IoT projects<br>🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Deep Learning<br>👯 I’m looking to collaborate on AI, Computer Vision, and Robotics projects<br>💬 Ask me about Python, Data Structures, Machine Learning, and Raspberry Pi projects<br>⚡ Fun fact: I love building real-world tech projects that solve practical problems<br><br>---<br>### 🛠 Tech Stack<br>- Languages: Python, Java, C<br>- AI/ML: TensorFlow, OpenCV, NumPy, Pandas<br>- Tools: Git, GitHub, VS Code, Raspberry Pi<br>- Interests: Computer Vision, IoT, Robotics Automation
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bandhandas115@gmail.com) 
 
