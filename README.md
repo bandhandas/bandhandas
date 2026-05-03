@@ -11,27 +11,25 @@
 </div>
 
 ---
-
 ## 🧠 About Me
 
 <p>
-<b style="color:#32CD32;">name</b> : Bandhan Kumar Das<br><br>
+<b style="color:#39FF14;">name</b> : Bandhan Kumar Das <br><br>
 
-<b style="color:#32CD32;">role</b> : CSE (IoT) Student | AI & Embedded Systems Enthusiast<br><br>
+<b style="color:#39FF14;">role</b> : CSE (IoT) Student | AI & Embedded Systems Enthusiast <br><br>
 
-<b style="color:#32CD32;">mantra</b> : Build smart. Think deep. Ship fast.
-</p>.
+<b style="color:#39FF14;">mantra</b> : Build smart. Think deep. Ship fast. <br><br>
 
+<b style="color:#39FF14;">focus</b> : <br>
+• IoT systems and embedded hardware integration <br>
+• AI/ML applications for real-world problems <br>
+• Full-stack development with a systems mindset <br><br>
 
-focus:
-  - IoT systems and embedded hardware integration
-  - AI/ML applications for real-world problems
-  - Full-stack development with a systems mindset
-
-currently_learning:
-  - Deep Learning & Neural Networks
-  - RTOS & Embedded C/C++
-  - Cloud IoT platforms 
+<b style="color:#39FF14;">currently_learning</b> : <br>
+• Deep Learning & Neural Networks <br>
+• RTOS & Embedded C/C++ <br>
+• Cloud IoT platforms
+</p>
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 # 📊 GitHub Stats:
