@@ -5,9 +5,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=150&section=header"/>
 
 <!-- HEADER -->
- <h1 align="center" style="color:#00FF00;">Bandhan Kumar Das</h1>
-<h3 align="center" style="color:#00FF00;">
-IoT | AI | Embedded Systems
+ <<h3 align="center" style="color:#00BFFF;">
+CSE (IoT) Student | AI & Embedded Systems Enthusiast
 </h3>
 
 <p align="center" style="color:#00FF00;">
@@ -59,19 +58,19 @@ Build Smart. Think Deep. Ship Fast.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bandhandas286">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 
   <a href="https://github.com/bandhandas">
-    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 
   <a href="https://portfolio-bandhan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 
   <a href="mailto:dasbandhan21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
