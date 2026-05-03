@@ -5,7 +5,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=150&section=header"/>
 
 <!-- HEADER -->
+ <h1 align="center" style="color:#00FF00;">Bandhan Kumar Das</h1>
+<h3 align="center" style="color:#00FF00;">
+IoT | AI | Embedded Systems
+</h3>
 
+<p align="center" style="color:#00FF00;">
+Build Smart. Think Deep. Ship Fast.
+</p>
 
 <!-- BANNER / GIF -->
 
