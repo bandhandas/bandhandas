@@ -24,8 +24,31 @@ Build Smart. Think Deep. Ship Fast.
 
 </div>
 
-# 💫 About Me:
-🧠 About Me<br>name : Bandhan Kumar Das<br>role : CSE (IoT) Student | AI & Embedded Systems Enthusiast<br>mantra : Build smart. Think deep. Ship fast.<br><br>focus :<br>• IoT systems and embedded hardware integration<br>• AI/ML applications for real-world problems<br>• Full-stack development with a systems mindset<br><br><br>currently_learning :<br>• Deep Learning & Neural Networks<br>• RTOS & Embedded C/C++<br>• Cloud IoT platforms
+# ---
+
+## 🧠 About Me
+
+```yaml
+Name     : Bandhan Kuamr Das
+Role     :  CSE (IoT) Student | AI & Embedded Systems Enthusiast
+mantra   : Design-first. Performance-always.
+
+focus:
+  - IoT systems and embedded hardware integration
+  - AI/ML applications for real-world problems
+  - Full-stack development with a systems mindset
+
+currently_learning:
+  - Deep Learning & Neural Networks
+  - RTOS & Embedded C/C++
+  - Cloud IoT platforms
+open_to:
+  - Internships
+  - Freelance projects
+  - Open Source collaborations
+```
+
+<br/>
 
 
 ## 🌐 Socials:
