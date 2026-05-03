@@ -120,6 +120,8 @@ open_to:
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 
 ## 🌐 Let's Connect
 
@@ -146,5 +148,24 @@ open_to:
   <i>If something I built helped you — ⭐ goes a long way.</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=120&section=footer"/>
+### ⭐ Show some love by starring my repositories!
+<p align="center">
+  <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png"/>
+</p>
+</div>
+<h4 align="center">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+<div align="center">
+  
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+</div>
+
+</div>
+
+
 
