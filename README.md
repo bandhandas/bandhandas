@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
+ 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=150&section=header"/>
 <p align="center">
@@ -26,6 +27,7 @@ Build Smart. Think Deep. Ship Fast.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 
+
 ## 🧠 About Me
 
 ```yaml
@@ -47,6 +49,7 @@ open_to:
   - Freelance projects
   - Open Source collaborations
 ```
+
 
 <br/>
 
@@ -122,6 +125,20 @@ open_to:
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<p align="center">
+      Bandhan GitRoll Contribution Graph <br>
+  <a href="https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
+<img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
+  </a>
+</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 ## 🌐 Let's Connect
