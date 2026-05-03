@@ -24,7 +24,6 @@ Build Smart. Think Deep. Ship Fast.
 
 </div>
 
-# ---
 
 ## 🧠 About Me
 
