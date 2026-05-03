@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://svgshare.com/i/13yB.svg" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=150&section=header"/>
