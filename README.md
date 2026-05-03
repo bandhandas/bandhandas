@@ -106,11 +106,6 @@ open_to:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bandhandas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandhandas&theme=react-dark&hide_border=true" />
-</p>
 
 ## ✍️ Random Dev Quote
 
@@ -119,12 +114,6 @@ open_to:
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bandhandas&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://komarev.com/ghpvc/?username=bandhandas&icon=0&color=0)
 
 ## 🌐 Let's Connect
 
