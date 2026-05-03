@@ -27,6 +27,12 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bandhandas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandhandas&theme=react-dark&hide_border=true" />
+</p>
+
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
