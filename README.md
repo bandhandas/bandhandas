@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I'm+Bandhan+Kumar+Das;CSE+(IoT)+Student;AI+%26+Embedded+Systems+Enthusiast;Build+Smart.+Think+Deep.+Ship+Fast." />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=150&section=header"/>
+
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Bandhan Kumar Das</h1>
 <h3 align="center">🚀 CSE (IoT) Student | AI & Embedded Systems Enthusiast</h3>
@@ -42,4 +48,31 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bandhandas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![](https://komarev.com/ghpvc/?username=bandhandas&icon=0&color=0)
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bandhandas286">
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/bandhandas">
+    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+
+  <a href="https://portfolio-bandhan.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+
+  <a href="mailto:dasbandhan21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to internships, freelance work, and meaningful open source collaborations.</i><br>
+  <i>If something I built helped you — ⭐ goes a long way.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
 
