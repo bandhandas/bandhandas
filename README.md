@@ -49,12 +49,50 @@ open_to:
 
 <br/>
 
+## ⚡ Tech Stack
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasbandhan21@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00BFFF?style=for-the-badge&logo=tensorflow&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-00BFFF?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-00BFFF?style=for-the-badge&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=black)
+
+### 🔌 IoT & Embedded
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-00BFFF?style=for-the-badge&logo=raspberrypi&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00BFFF?style=for-the-badge&logo=arduino&logoColor=black)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00BFFF?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
+
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00BFFF?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-00BFFF?style=for-the-badge&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=black)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-00BFFF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00BFFF?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=black)
+
+### 🎨 Design
+![Adobe](https://img.shields.io/badge/Adobe-00BFFF?style=for-the-badge&logo=adobe&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00BFFF?style=for-the-badge&logo=canva&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-00BFFF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+
+
+### ☁️ Currently Exploring
+![Cloud IoT](https://img.shields.io/badge/Cloud%20IoT-00BFFF?style=for-the-badge&logo=googlecloud&logoColor=black)
+![RTOS](https://img.shields.io/badge/RTOS-00BFFF?style=for-the-badge&logo=freebsd&logoColor=black)
+
+</div>
+
+---
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=bandhandas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
