@@ -15,11 +15,11 @@
 ## 🧠 About Me
 
 <p>
-<b style="color:#00FF00;">name</b> : Bandhan Kumar Das<br><br>
+<b style="color:#32CD32;">name</b> : Bandhan Kumar Das<br><br>
 
-<b style="color:#00FF00;">role</b> : CSE (IoT) Student | AI & Embedded Systems Enthusiast<br><br>
+<b style="color:#32CD32;">role</b> : CSE (IoT) Student | AI & Embedded Systems Enthusiast<br><br>
 
-<b style="color:#00FF00;">mantra</b> : Build smart. Think deep. Ship fast.
+<b style="color:#32CD32;">mantra</b> : Build smart. Think deep. Ship fast.
 </p>.
 
 
