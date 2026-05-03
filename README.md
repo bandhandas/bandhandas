@@ -101,7 +101,7 @@ open_to:
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=40&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=60&section=footer"/>
 </p>
 
 <p align="center">
