@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I'm+Bandhan+Kumar+Das;CSE+(IoT)+Student;AI+%26+Embedded+Systems+Enthusiast;Build+Smart.+Think+Deep.+Ship+Fast." />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=150&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=150&section=header"/>
 
 <!-- HEADER -->
  <h1 align="center" style="color:#00FF00;">Bandhan Kumar Das</h1>
@@ -80,5 +80,5 @@ Build Smart. Think Deep. Ship Fast.
   <i>If something I built helped you — ⭐ goes a long way.</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=120&section=footer"/>
 
