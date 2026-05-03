@@ -100,6 +100,9 @@ open_to:
 ![RTOS](https://img.shields.io/badge/RTOS-2E8B57?style=for-the-badge)
 
 ## 📈 Contribution Graph
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=40&section=footer"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandhandas&theme=react-dark&hide_border=true&color=00BFFF&line=FFD700&point=FFFFFF" width="100%"/>
