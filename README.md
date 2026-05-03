@@ -3,6 +3,9 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=150&section=header"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Bandhan+Kumar+Das;CSE+(IoT)+Student;AI+%26+Embedded+Systems+Enthusiast;Build+Smart.+Think+Deep.+Ship+Fast." />
+</p>
 
 <!-- HEADER -->
  <<h3 align="center" style="color:#00BFFF;">
