@@ -101,13 +101,15 @@ open_to:
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00BFFF,100:2C5364&height=80&section=footer"/>
-</p>
+### 📈 Contribution Graph:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandhandas&theme=react-dark&hide_border=true&color=00BFFF&line=FFD700&point=FFFFFF" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+<div align="center">
+  <img width="100%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=bandhandas&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" 
+       alt="BANDHAN  GitHub Activity Graph"/>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,arduino,raspberrypi,c,cpp,java,git,github,linux" />
