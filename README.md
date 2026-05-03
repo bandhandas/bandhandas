@@ -98,18 +98,8 @@ open_to:
 ### ☁️ Currently Exploring
 ![Cloud IoT](https://img.shields.io/badge/Cloud%20IoT-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-2E8B57?style=for-the-badge)
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=bandhandas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=bandhandas&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bandhandas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
