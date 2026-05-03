@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
 
@@ -52,6 +50,10 @@ Build Smart. Think Deep. Ship Fast.
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
 
 ## 🔝 Top Contributed Repo
 
