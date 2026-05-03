@@ -99,7 +99,15 @@ open_to:
 ![Cloud IoT](https://img.shields.io/badge/Cloud%20IoT-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-2E8B57?style=for-the-badge)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandhandas&theme=react-dark&hide_border=true&color=00BFFF&line=FFD700&point=FFFFFF" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,arduino,raspberrypi,c,cpp,java,git,github,linux" />
+</p>
 
 
 
